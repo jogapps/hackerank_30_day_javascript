@@ -20,6 +20,7 @@ function processData(input) {
     }
 } 
 
+
 process.stdin.resume();
 process.stdin.setEncoding("ascii");
 _input = "";
